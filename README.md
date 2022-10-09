@@ -11,3 +11,9 @@ I will build this with HTML and then later visit with CSS
 
 10/8/22, 8:14pm: Created a 2 directories for recipes
 10/8/22, 8:14pm: Created boilerplates for each .html file
+
+10/8/22, 9:07pm: 
+Saved images in the same folders as the subdirectories and one with the index directory
+Cleaned up homepage by adding 2 links to the 2 recipe websites
+Installed home page button
+Inserted Ingredients, Steps, Time/info and references the original recipe for both sites
